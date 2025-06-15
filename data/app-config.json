@@ -1,0 +1,8 @@
+{
+  "baseImageUrl": "https://raw.githubusercontent.com/akshayvakshish/Glassware-Scientific-Assets/main/products/",
+  "currency": "INR",
+  "contactEmail": "info@esplglobal.co.in",
+  "siteTitle": "ESPL Chemicals",
+  "showOutOfStock": false,
+  "defaultCategory": "beakers"
+}
